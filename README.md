@@ -1,0 +1,1 @@
+# Linear_regression_from_scratch_with_stochastic_gradient_descent_gradient_descent_mini_batch
